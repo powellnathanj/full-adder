@@ -4,3 +4,5 @@ $ ruby full-adder.rb 1101 1110
 
 11011
 
+
+![Full Adder Circuit](full-adder.png)
