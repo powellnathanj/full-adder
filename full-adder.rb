@@ -1,4 +1,4 @@
-# This is a representation in ruby of the Ben Eater video: https://www.youtube.com/watch?v=wvJc9CZcvBc&t=606s
+# This is a representation in ruby of the Ben Eater video: https://www.youtube.com/watch?v=wvJc9CZcvBc
 # Ruby has binary math built in, but this was to demonstrate binary addition with logic gates
 
 class FullAdder
